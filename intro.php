@@ -1,5 +1,7 @@
+<?php
 
-<!-- <div class="container">
+?>
+<div class="container">
     
     <div id="footer-top">
         <div class="box-footer-top">
@@ -39,4 +41,4 @@
     </div>
 </div>
 </body>
-</html> --> -->
+</html>

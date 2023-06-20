@@ -112,7 +112,7 @@ include_once("connection.php");
         </div>
     </div> <!-- End main content area -->
     
-    <!-- <div class="brands-area">
+    <div class="brands-area">
         <div class="zigzag-bottom"></div>
         <div class="container">
             <div class="row">
@@ -129,4 +129,4 @@ include_once("connection.php");
                 </div>
             </div>
         </div>
-    </div>  -->
+    </div> 
