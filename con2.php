@@ -11,10 +11,10 @@ class connecttt{
         // $this->password = "";
         // $this->dbName = "online_shopping";
         
-        // $this->sever = "ble5mmo2o5v9oouq.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
-        // $this->user = "k1hp9egucn97bufm";
-        // $this->password = "zrqb0qb4366ii6t5";
-        // $this->dbName = "brmvwkmn3wglcma2";
+        $this->sever = "ble5mmo2o5v9oouq.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
+        $this->user = "k1hp9egucn97bufm";
+        $this->password = "zrqb0qb4366ii6t5";
+        $this->dbName = "brmvwkmn3wglcma2";
     }
     //option 1: mysql
     function connectToMYSQL():mysqli{
